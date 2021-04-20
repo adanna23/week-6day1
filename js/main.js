@@ -10,7 +10,8 @@ function findWords(dog_names, dog_string){
     let stringsplit = dog_string.split(" ")
     console.log(stringsplit)
  for (i = 0; i <arr.lenght; i++)   
-}
+ return arr
+} 
 
 //Call method here with parameters
 findWords(dog_names, dog_string)
